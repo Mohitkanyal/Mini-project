@@ -137,6 +137,7 @@ The best time to visit thailand is during cool season offers comfortable tempera
 <p>A: 
 
 Yes, Thailand is renowned for its stunning beaches, offering pristine sands, clear turquoise waters, and a range of activities such as swimming, snorkeling, diving, and sunbathing. Popular beach destinations include Phuket, Krabi, Koh Samui, Koh Phi Phi, and many more.</p>
+    </div>        
 </section>
             
 </body>
