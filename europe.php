@@ -14,7 +14,7 @@ include("navbar.php");
 </head>
 <body>
 <header >
-    <img src="./img/europe.avif" alt="">
+    <img src="./img/europe.jpg" alt="">
     </header>
 
        
@@ -62,7 +62,7 @@ include("navbar.php");
                 </div>
                 <div class="box">
                     <div class="card">
-                        <img class="card-img" src="./img/europe2.avif" />
+                        <img class="card-img" src="./img/europe2.jpg" />
                         <h4>Eiffel Tower</h4>
                         <ul class="font-color">
                            
