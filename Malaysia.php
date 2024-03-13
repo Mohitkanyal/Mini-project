@@ -20,7 +20,7 @@ include("navbar.php");
        
         <div class="effect">
         <div class ="header-title">
-        <h1>Vietnam </h1>
+        <h1>Malaysia </h1>
         <!-- </div> -->
         <!-- <div class="header-content"> -->
         <p>Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests and mix of Malay, Chinese, Indian and European cultural influenc</p>        </div>
